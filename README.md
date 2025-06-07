@@ -1,9 +1,9 @@
 
 ### Olá! Eu sou Jônatas Gomes😊
 
-<div align="center">
-<img src="./assets/img/Mario.gif" width="900"/>
-</div>
+<p align="center">
+  <img src="./assets/img/Mario.gif" width="900" />
+</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatasgomes-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatasgomeslima21@gmail.com)
