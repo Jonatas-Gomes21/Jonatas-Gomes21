@@ -2,7 +2,7 @@
 ### Olá! Eu sou Jônatas Gomes😊
 
 <div>
-<img src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd" width="800" height="400"/>
+<img src="./assets/img/Mario.gif" width="700"/>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatasgomes-dev/)
@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonatasgomes15/)
 
 
-![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonatas-Gomes21&show_icons=true&theme=holi)
+![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonatas-Gomes21&show_icons=true&theme=holi&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas-Gomes21&layout=compact&theme=holi)](https://github.com/Jonatas-Gomes21/github-readme-stats)
 
 ## Tecnologias que uso no meu dia a dia
