@@ -5,10 +5,12 @@
   <img src="./assets/img/Mario.gif" width="900" />
 </p>
 
+<p align="center">
+    
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatasgomes-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatasgomeslima21@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonatasgomes15/)
-
+</p>
 
 ![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonatas-Gomes21&show_icons=true&theme=holi&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas-Gomes21&layout=compact&theme=holi)](https://github.com/Jonatas-Gomes21/github-readme-stats)
