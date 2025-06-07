@@ -1,8 +1,8 @@
 
 ### Olá! Eu sou Jônatas Gomes😊
 
-<div>
-<img src="./assets/img/Mario.gif" width="700"/>
+<div align="center">
+<img src="./assets/img/Mario.gif" width="900"/>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatasgomes-dev/)
